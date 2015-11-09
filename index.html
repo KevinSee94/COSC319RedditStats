@@ -67,12 +67,12 @@
             <br><br>
             <table>
               <tr ng-repeat="x in posts2 | object2Array | filterScore:inScore | filter:{Body:textWord}">
-                <td class="col-xs-1">{{x.Body}}</td>
-                <td class="col-xs-1">{{x.Author}}</td>
-                <td class="col-xs-1">{{x.CommentId}}</td>
-                <td class="col-xs-1">{{x.Score}}</td>
-                <td class="col-xs-1">{{x.Submission}}</td>
-                <td class="col-xs-1">{{x.ParentId}}</td>
+                <td>{{x.Body}}</td>
+                <td>{{x.Author}}</td>
+                <td>{{x.CommentId}}</td>
+                <td>{{x.Score}}</td>
+                <td>{{x.Submission}}</td>
+                <td>{{x.ParentId}}</td>
             </table>
           </form>
         </div>
