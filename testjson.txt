@@ -1,3 +1,0 @@
-$scope.names = [{“Body": "It's from the Steam achievements for Grim Fandango Remastered.", "CommentId": "cvv5nde", "Score": "14", "Submission": "59 :: Tim Schafer pandering to Pat.", "ParentId": "t3_3o9h5i”},
-{"Body": "Damn straight", "CommentId": "cvvh7nk", "Score": "5", "Submission": "59 :: Tim Schafer pandering to Pat.", "ParentId": "t3_3o9h5i”},
-{"Body": "It's a shame the remaster looks worse than the original game.", "CommentId": "cvvnmfh", "Score": "1", "Submission": "59 :: Tim Schafer pandering to Pat.", "ParentId": "t3_3o9h5i”}]
